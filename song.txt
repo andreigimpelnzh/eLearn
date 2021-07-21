@@ -1,5 +1,11 @@
 # скачивания файла
 ICE Book Reader
-# Проверка файлов
 Rus_zip
 # шарп перед однострочными пояснениями
+JavaScript
+Front-end
+The Rolling
+
+Enable language detection
+ARIA relationship attributes
+App-store purchases
